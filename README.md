@@ -22,6 +22,7 @@ The application should feature a login section for user authentication and a pro
  * Add functionality to add, edit, and remove posts.
  * Implement state management to preserve application state even after page refreshes.
  * Enhance the user interface and user experience with advanced design or frameworks. Feel free to extend the data.json file with additional fields if you find it necessary to support the application's features or improve its functionality.
+ * Develop the project using TypeScript instead of JavaScript.
 
 
 ## Getting Started
@@ -38,3 +39,5 @@ Access the application at [http://localhost:5173](http://localhost:5173) and the
  * Commit your changes incrementally to reflect the development history.
 
 This project does not have a strict deadline. However, we recommend completing it within one week.
+
+Upon completion of the project, please send an email to the application email address with the link to your repository. 
