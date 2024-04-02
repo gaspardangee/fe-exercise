@@ -18,7 +18,7 @@ The application should feature a login section for user authentication and a pro
  * After authentication, direct the user to a profile page showing their name and a list of their posts, ordered by date.
 
 
-## Optional Features ➕
+## Optional Features
  * Add functionality to add, edit, and remove posts.
  * Implement state management to preserve application state even after page refreshes.
  * Enhance the user interface and user experience with advanced design or frameworks. Feel free to extend the data.json file with additional fields if you find it necessary to support the application's features or improve its functionality.
@@ -33,7 +33,7 @@ The application should feature a login section for user authentication and a pro
 Access the application at [http://localhost:5173](http://localhost:5173) and the backend at [http://localhost:5000](http://localhost:5000)
 
 
-## General Guidelines 📝
+## General Guidelines
  * The application should be responsive and adhere to web design and usability best practices.
  * Document the code clearly to explain the purpose and functionality of different sections.
  * Commit your changes incrementally to reflect the development history.
