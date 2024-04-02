@@ -20,7 +20,6 @@ The application should feature a login section for user authentication and a pro
 
 ## Optional Features
  * Add functionality to add, edit, and remove posts.
- * Use encrypted passwords instead of plain text.
  * Implement state management to preserve application state even after page refreshes.
  * Enhance the user interface and user experience with advanced design or frameworks. Feel free to extend the data.json file with additional fields if you find it necessary to support the application's features or improve its functionality.
 
