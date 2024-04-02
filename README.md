@@ -28,7 +28,7 @@ Ensure the application maintains state across page refreshes.
 2. Install dependencies with npm install.
 3. Launch the json-server backend using `npm run json-server`.
 4. In a separate terminal, start the frontend with `npm run dev`.
-Access the application at http://localhost:3000 and the backend at http://localhost:5173
+Access the application at [http://localhost:5173](http://localhost:5173) and the backend at [http://localhost:5000](http://localhost:5000)
 
 ## General Guidelines
  * The application should be responsive and adhere to web design and usability best practices.
