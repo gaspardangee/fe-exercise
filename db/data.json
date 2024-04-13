@@ -20,9 +20,22 @@
       "password": "aecpsa",
       "firstName": "Sam",
       "lastName": "Smith"
+    },
+    {
+      "id": "4",
+      "email": "a@a.a",
+      "password": "123",
+      "firstName": "Gaspar",
+      "lastName": "Dange"
     }
   ],
   "posts": [
+    {
+      "userId": "3",
+      "postedAt": "2024-04-13T12:18:00",
+      "title": "Exciting News!",
+      "text": "I'm thrilled to share that I've started a new journey!"
+    },
     {
       "userId": "1",
       "postedAt": "2024-03-20T10:00:00",

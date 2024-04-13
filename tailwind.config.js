@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'main-background': "url(./src/assets/background.png)"
+        'main-background': "url(./src/assets/background.png)",
+        'background-with-car': "url(./src/assets/backgound-with-car.png)"
       },
       fontFamily: {
         'title': ['Jura']
